@@ -1,0 +1,21 @@
+# Site settings
+title: Niki's Playground
+header-img: img/home-bg.png
+email: ew1415048nk@gmail.com
+copyright_name: NakyungLee
+description: > # this means to ignore newlines until "baseurl:"
+  loading...
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  NakyungLee
+learn_profile: NakyungLee
+email_username: ew1415048nk@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
