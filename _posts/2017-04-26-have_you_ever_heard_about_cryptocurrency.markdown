@@ -6,8 +6,8 @@ date:   2017-04-26 08:20:17 -0400
 
 My first CLI gem project.
 
-Why I choosed this topic
--
+## Why I choosed this topic
+
 Maybe some of you know - or at least heard - about Bitcoin. Bitcoin is the most popular cryptocurrency, which is used as a currency in real world. You can even buy a pizza with it. [Click if you are interested.](https://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/#53c300642509)(You could have bought pizza paying 10000bit.)
 Now, the rate is now over $1200 to 1Bit! And day by day, there comes a lot more cryptocurrencies, such as Ethereum, Ripple, etc.
 And there are trading centers for cryptocurrencies, so that we can buy and sell our coins. People make profit by trading them, like stock trading. 
