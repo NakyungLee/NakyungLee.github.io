@@ -6,7 +6,7 @@ date:   2017-04-27 11:28:19 -0400
 
 
 the vertical text selection provided by atom. It saved me from 100.times do copy&paste.
-![Watch this](http://imgur.com/f3i3EmF)
+![Watch this](http://i.imgur.com/f3i3EmF.gif)
 
 ```
 Note: You will have to disable the Mission Control (key bindings) in OS X to use this key combo.
