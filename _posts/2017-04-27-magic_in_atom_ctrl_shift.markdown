@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MAGIC in atom :  Ctrl+Shift+↑/↓."
-date:   2017-04-27 15:28:18 +0000
+date:   2017-04-27 11:28:19 -0400
 ---
 
 
