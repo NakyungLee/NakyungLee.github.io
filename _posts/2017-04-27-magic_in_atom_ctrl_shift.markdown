@@ -14,3 +14,7 @@ Note: You will have to disable the Mission Control (key bindings) in OS X to use
 ```
 
 [Brought from here.](http://stackoverflow.com/questions/31652914/is-there-a-keyboard-shortcut-to-select-a-column-for-editing-in-atom-editor)
+
+
+
++) Cmd + D is much more awesome. Try it.
